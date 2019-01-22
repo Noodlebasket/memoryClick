@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "alt" : "red",
+        "image": "https://images.pexels.com/photos/54320/rose-roses-flowers-red-54320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 2,
+        "alt" : "blue",
+        "image": "https://images.pexels.com/photos/175773/pexels-photo-175773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 3,
+        "alt" : "yellow",
+        "image": "https://images.pexels.com/photos/756903/pexels-photo-756903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 4,
+        "alt" : "purple",
+        "image": "https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 5,
+        "alt" : "green",
+        "image": "https://images.pexels.com/photos/158780/leaf-nature-green-spring-158780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id": 6,
+        "alt" : "orange",
+        "image": "https://images.pexels.com/photos/1043515/pexels-photo-1043515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+]
